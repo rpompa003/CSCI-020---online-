@@ -1,0 +1,26 @@
+<cats>
+   <cat>
+      <name>Whiskers</name>
+      <age>6</age>
+   </cat>
+   <cat>
+      <name>Mittens</name>
+      <age>2</age>
+   </cat>
+   <cat>
+      <name>Charlie</name>
+      <age>7</age>
+   </cat>
+   <cat>
+      <name>Izzy</name>
+      <age>10</age>
+   </cat>
+   <cat>
+      <name>Pepper</name>
+      <age>4</age>
+   </cat>
+   <cat>
+      <name>Bear</name>
+      <age>7</age>
+   </cat>
+</cats>
